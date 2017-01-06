@@ -1,0 +1,2 @@
+# SteepCoin
+Steep Cryptocurrency
